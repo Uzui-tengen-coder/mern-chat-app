@@ -53,7 +53,7 @@ if (process.env.NODE_ENV !== "production") {
     server.listen(PORT, () => console.log("Server is running on PORT:" + PORT));
 }
 
-//Export server for vercel...
+//Export server for vercel
 export default server;
 
 
