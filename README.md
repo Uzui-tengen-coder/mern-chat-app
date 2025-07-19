@@ -99,8 +99,6 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 <img width="1920" height="970" alt="quickchat screenshot2" src="https://github.com/user-attachments/assets/3264c848-7bc0-4f86-8ee4-487de3605108" />
 
-<img width="1920" height="879" alt="quickchat screenshot3" src="https://github.com/user-attachments/assets/11d0b374-1bc4-434a-970f-2225cc6767b4" />
-
 ---
 
 ## 👨‍💻 Author
